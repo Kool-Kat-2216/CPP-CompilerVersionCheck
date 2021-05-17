@@ -4,7 +4,7 @@ using namespace std;
 
 // By Kool_Kat_2216.
 
-bool u_com = false;
+
 
 string doc_string(int ver, int minor, int p_level) {
   std::ostringstream d;
