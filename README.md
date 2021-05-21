@@ -6,4 +6,4 @@ This currently supports **`GCC (GNU Compiler Collection)`**, **`Clang++`**, **`V
 Let me know if there are any bugs. Thanks!
 
 
-___This program is issued under the MIT Sofware license.___
+___This program is issued under the MIT Software license.___
