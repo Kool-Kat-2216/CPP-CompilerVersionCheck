@@ -4,3 +4,6 @@ A simple program I wrote in **C++** to check the compiler and compiler version t
 This currently supports **`GCC (GNU Compiler Collection)`**, **`Clang++`**, **`Visual Studio`**, and **`ICC (Intel C++ Compiler)`**.
 
 Let me know if there are any bugs. Thanks!
+
+
+___This program is issued under the MIT Sofware license.___
